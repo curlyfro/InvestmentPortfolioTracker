@@ -1,0 +1,11 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=database-1.ckxhjowsksmo.us-east-1.rds.amazonaws.com,1433;Database=investment-tracker;User Id=admin;Password=uJAQfKDg4bxGBy2wHzd3*c|pKznv;TrustServerCertificate=true;MultipleActiveResultSets=true"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.EntityFrameworkCore": "Warning"
+    }
+  }
+}
